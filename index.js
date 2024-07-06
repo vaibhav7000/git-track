@@ -1,1 +1,1 @@
-console.log('version 2 in index.js')
+console.log('version 4 in index.js')
